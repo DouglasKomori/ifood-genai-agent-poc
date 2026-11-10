@@ -1,0 +1,6 @@
+openai>=1.40,<3
+pandas>=2.0
+numpy>=1.26
+pydantic>=2.6,<3
+python-dotenv>=1.0
+pytest>=8.0
